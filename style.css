@@ -3,7 +3,7 @@ body{
 }
 
 audio::-webkit-media-controls-panel {
-  background-color: #000000;
+  background-color: cyan;
 }
 
 div{
